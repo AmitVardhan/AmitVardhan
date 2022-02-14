@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript, Data Structures and Algorithms
 - 🌱 I’m currently learning Algorithms
 - 💞️ I’m looking to collaborate on any javascript open source project
-- 📫 You can reach me at amitvardhan.osum@gmail.com
+- 📫 You can reach me at amitvardhan.av@gmail.com
 
 <!---
 AmitVardhan/AmitVardhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
